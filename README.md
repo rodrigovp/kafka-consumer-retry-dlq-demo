@@ -7,6 +7,8 @@ This project demonstrates how to produce and consume events in Apache Kafka by m
 
 The goal is to demonstrate how these patterns work **without using frameworks**, relying only on the native Kafka client.
 
+🇧🇷 [Read this in Portuguese](README.pt-BR.md)
+
 ---
 
 ## What problem does this solve?
